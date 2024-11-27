@@ -30,7 +30,7 @@ Soy Ángeles, futura desarrolladora multiplataforma, en la actualidad me encuent
 Email: angeles.trejo.croce@gmail.com
 
 ## CV
- Notion: 
+ Notion: https://mixolydian-army-2a6.notion.site/CV-ngeles-Trejo-Croce-149d439a8c2480af8e2eeffae411924a 
 
 
 
