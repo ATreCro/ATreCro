@@ -26,6 +26,8 @@ Soy Ángeles, futura desarrolladora multiplataforma, en la actualidad me encuent
 
 # Mis Estadísticas.
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ATreCro&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATreCro&layout=compact)
 
 ## Contacta conmigo.
 
