@@ -1,5 +1,7 @@
-# 👋 Hola, Soy Ángeles Trejo 👋
 
+
+![Ilustración_sin_título](https://github.com/user-attachments/assets/9e4e1fe9-bfc2-4572-9338-f8338c395819)
+# 👋 Hola, Soy Ángeles Trejo 👋
 
 # Sobre mí.
 Soy Ángeles, futura desarrolladora multiplataforma, en la actualidad me encuentro cursando el ciclo formativo de grado superior en desarrollo multiplataforma (2º curso), y aunque aún me queda mucho que aprender en este sector, también me gustaría aportar mis conocimientos actuales, vamos con todo para ganarnos un puesto en este sector que me resulta apasionante. Me gradué como Trabajadora Social en el año 2016 en la Universidad Pablo de Olavide (Sevilla) y desde entonces me dediqué a ello, interviniendo profesionalmente con adultos mayores.Aunque mis primeros pinitos empezaron en la hostelería cuando tenia 18 años, ahí fue donde descubrí mi pasión por los helados.
