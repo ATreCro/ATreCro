@@ -21,7 +21,7 @@ Soy Ángeles, futura desarrolladora multiplataforma, en la actualidad me encuent
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="50" height="50"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50"/>
-<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="70" height="50"/>  
+<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="80" height="50"/>  
 </p>
 
 # Mis Estadísticas.
