@@ -24,7 +24,10 @@ Soy Ángeles, futura desarrolladora multiplataforma, en la actualidad me encuent
 
 # Mis Estadísticas.
 
+## Contacta conmigo.
 
+<p>LinkedIn: </p>
+Email: 
 
 
 
