@@ -26,8 +26,11 @@ Soy Ángeles, futura desarrolladora multiplataforma, en la actualidad me encuent
 
 ## Contacta conmigo.
 
-<p>LinkedIn: </p>
-Email: 
+<p>LinkedIn: https://www.linkedin.com/in/%C3%A1ngeles-trejo-croce-227434131/ </p>
+Email: angeles.trejo.croce@gmail.com
+
+## CV
+ Notion: 
 
 
 
